@@ -1,4 +1,4 @@
-# 💨 TailwindCSS
+# <img src="https://skillicons.dev/icons?i=tailwind" /> TailwindCSS
 ***A repo made to document my learning of TailwindCSS. Contains the practice codes of different TailwindCSS concepts and components.***
 
 ## 📂 Resources

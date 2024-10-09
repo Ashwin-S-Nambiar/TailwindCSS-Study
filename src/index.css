@@ -3,7 +3,13 @@
 @tailwind utilities;
 
 @layer {
-    html {
-        @apply bg-red-400
+    body {
+
+        filter: contrast(180%) brightness(100%);
+        background: 
+        linear-gradient(121deg, rgba(175,175,243,1), rgba(210,186,151,0.8)),
+        radial-gradient(circle at 50% 50%, rgba(0,0,255,1), rgba(179,254,255,1)),
+        url(/👆/that/noise.svg);
+        height: 100vh;  
     }
 }

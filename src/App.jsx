@@ -8,10 +8,11 @@ import {
   SuperQuality,
   PopularProducts
 } from './sections/index'
+import Nav from "./components/Nav"
 
 const App = () => (
   <main className="relative">
-      {/* <Nav /> */}
+      <Nav />
     <section className="x1:padding-1 wide:padding-r padding-b">
       <Hero />
     </section>

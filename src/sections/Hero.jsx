@@ -38,7 +38,7 @@ const Hero = () => {
               className="relative z-10 object-contain"
         />      
       </div>
-      <div>
+      <div className="absolute flex gap-4 sm:gap-6 -bottom-[5%] sm:left-[10%] max-sm:px-6">
         {shoes.map((shoe) => {
           <div key={shoe}>
             <ShoeCard
